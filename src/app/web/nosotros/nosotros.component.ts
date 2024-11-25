@@ -17,5 +17,5 @@ import { Component } from '@angular/core';
 })
 export class NosotrosComponent {
   public titulo:string = "Acerca de nosotros"
-
+gir
 }
